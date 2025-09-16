@@ -145,6 +145,3 @@ Si te sirve en un trabajo o repo, puedes citar así:
 
 > *“Ricci en métrica esféricamente simétrica (SymPy)”, Héctor Becerril (2025), GitHub repository.*
 
----
-
-¿Quieres que convierta el script en un **módulo** con funciones (`ricci(A,B)`) y una **CLI** para imprimir solo el bloque LaTeX? Te lo dejo armado si te late.
